@@ -2,6 +2,7 @@ Tanzania_water_wells_project
 
 BUSINESS UNDERSTANDING
 
+![image](https://github.com/PamelaAwino/Project_3/assets/124348072/2c3a5a5c-aafe-4786-9edf-dc2da1b4f322)
 
 
 Overview:
