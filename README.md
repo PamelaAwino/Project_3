@@ -25,7 +25,7 @@ To determine if functionality varies by quantity.
 
 To predict the condition of a waterpoint pump based on the geographical location
 
-Research Questions
+# Research Questions
 
 Does water quality affect the functionality of a waterpoint pump?
 
