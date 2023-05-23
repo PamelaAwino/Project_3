@@ -87,7 +87,8 @@ The observations made through this analysis can be used to provide recommendatio
 
 The anlaysis also discovers that communal standpipe seems to be the most popular waterpoint type around the country. Most of the wells that are never paid for were discovered to be non functional.
 
-![image](https://github.com/PamelaAwino/Project_3/assets/124348072/5664a091-1d60-4e2b-9e6d-af99cf0a952a)
+![image](https://github.com/PamelaAwino/Project_3/assets/124348072/25e75e85-0246-4e60-95cc-a41be93cf0b2)
+
 
 
 ##Preparing Data to Modeling:
