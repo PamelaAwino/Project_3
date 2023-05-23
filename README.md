@@ -41,11 +41,9 @@ The major objective of this study is to build a model that classifies the functi
 
 Project Metric of Success:
 
-To ensure that newly constructed wells are of good quality water for the communities.
+Generating a model that will be able to correctly predict the quality status of the wells in Tanzania with an accuracy of 70-75 %
 
 To correctly identify functionality of a well and determine its viability.
-
-Generating a model that will be able to correctly predict the quality status of the wells in Tanzania with an accuracy of 70-75 %
 
 DATA UNDERSTANDSING
 
@@ -91,7 +89,7 @@ The anlaysis also discovers that communal standpipe seems to be the most popular
 
 
 
-##Preparing Data to Modeling:
+Preparing Data to Modeling:
 
 To prepare our data to machine learning, we did some feature engineering, encoding and scaling.
 
@@ -122,6 +120,12 @@ Recommendation
 In summary, it is recommended that the government gives priority to sourcing water from springs rather than shallow wells or boreholes during the construction of water points. This is because water drawn from springs is less likely to cause quick damage to the pumps.
 
 Additionally, water points with ample water supply should be carefully monitored due to the high usage, which can potentially lead to their failure. By implementing these practices, the government can enhance the longevity and effectiveness of water points while ensuring that those with sufficient water are adequately monitored to prevent any operational issues.
+
+Technologies Used
+Python
+Pandas
+Matplotlib
+Sklearn
 
 Future Improvements:
 
